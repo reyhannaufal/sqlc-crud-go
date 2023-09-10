@@ -14,8 +14,6 @@ This command will pull the necessary images (if not already present), create con
 docker-compose up -d
 ```
 
-This command will pull the necessary images (if not already present), create containers, and start the database. Check that the database container is running with:
-
 Run the Application:
 
 ```bash
